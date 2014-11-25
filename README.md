@@ -11,32 +11,33 @@ Pages
 This is just a simple set up of the webpages.
 
 
-![Picture1](homepage.png)
+![Picture1](Picture1.PNG)
 
-![Picture2](Homepage2.PNG)
+![Picture2](Picture2.PNG)
 
-
-![Picture3](aboutme.PNG)
-
-
-![Picture4](thingsilike.PNG)
+![Picture3](Picture3.PNG)
 
 
-![Picture5](thingsilike2.PNG) 
+![Picture4](Picture4.PNG)
 
 
-![Picture6](menu.PNG) 
+![Picture5](Picture5.PNG)
+
+
+![Picture6](Picture6.PNG)
 
 
 Plug In Example
 ============================
 
-This is how to install the Instagram widget, then all you have to allow WordPress access to your Instagram. 
-![Picture7](instagramwiget.PNG) 
+This is how to install the Instagram widget, then all you have to allow WordPress access to your Instagram.
+ 
+![Picture7](Picture7.PNG)
 
 This shows where your INstagram images will be placed on the pages.
-![Picture8](sidebarmwig.PNG) 
+
+![Picture8](Picture8.PNG)
 
 This is the final example. 
-![Picture9](instgramwig.PNG)
+![Picture9](Picture9.PNG)
 
